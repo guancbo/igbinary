@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: igbinary
+Version: 1.0.2
+Summary: this is a package for unpacking php igbinary serialization of the data.
+Home-page: https://pypi.python.org/pypi/igbinary
+Author: guancbo
+Author-email: guancbo@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: unpacking php igbinary serialize data
+Platform: UNKNOWN
