@@ -12,5 +12,5 @@ setup(
     author="guancbo",
     author_email="guancbo@gmail.com",
     license="MIT",
-    url="https://pypi.python.org/pypi/igbinary"
+    url="https://github.com/guancbo/igbinary"
 )
